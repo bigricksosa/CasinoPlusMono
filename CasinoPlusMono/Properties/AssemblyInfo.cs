@@ -5,7 +5,7 @@ using System.Runtime.InteropServices.ComTypes;
 using MelonLoader;
 using CasinoPlusMono; 
 
-[assembly: MelonInfo(typeof(casino), "CasinoPlus", "0.8.5", "Sosa")]
+[assembly: MelonInfo(typeof(casino), "CasinoPlus", "1.0.9", "Sosa")]
 [assembly: MelonGame("TVGS", "Schedule I")]
 [assembly: AssemblyTitle("CasinoPlusMono")]
 [assembly: AssemblyDescription("")]

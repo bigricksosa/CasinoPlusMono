@@ -35,9 +35,8 @@ namespace CasinoPlusMono
         public override void OnInitializeMelon()
         {
             Instance = this;
-            MelonLogger.Msg(string.Format("Casino Mod loaded - Blackjack: ${0}-${1}, RTB: ${2}-${3}, Slots: {4}-{5}",
-                BJ_MIN_BET, BJ_MAX_BET, RTB_MIN_BET, RTB_MAX_BET,
-                SLOT_BET_AMOUNTS[0], SLOT_BET_AMOUNTS[SLOT_BET_AMOUNTS.Length - 1]));
+            MelonLogger.Msg(string.Format("Mod loaded."));
+            MelonLogger.Msg(string.Format("Contact aybigRick on Discord about any issues."));
 
             GameObject enforcerObj = GameObject.Find("ScorePositionEnforcer");
             if (enforcerObj == null)
