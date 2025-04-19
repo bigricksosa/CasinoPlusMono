@@ -22,6 +22,6 @@ A lightweight casino overhaul mod for Schedule I [alternate-mono].
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/bigricksosa/CasinoPlusMono/blob/master/LICENSE)
 
 
